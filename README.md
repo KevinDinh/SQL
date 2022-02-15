@@ -1,2 +1,2 @@
 # SQL
-This is all my public SQL codes stored.
+This is where all my public SQL codes stored.
